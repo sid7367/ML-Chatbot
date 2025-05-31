@@ -1,1 +1,0 @@
-print("This is sid1.py in the same directory")
